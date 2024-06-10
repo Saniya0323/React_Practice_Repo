@@ -11,8 +11,7 @@ const reducer = (state,action) => {
         return initialState
     default:
         return state
- }
-}
+ }}
 
 function UseReducerBasic() {
     // const arr = [1,2,3,4,5]

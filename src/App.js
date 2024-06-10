@@ -15,6 +15,7 @@ import './App.css';
 // export const UserCountry = React.createContext()
 import UseReducerBasic from './componentshooks/UseReducerBasic';
 import PracticeHooks from './componentshooks/PracticeHooks';
+import UseReducersComplex from './componentshooks/UseReducersComplex';
 
 function App() {
   return (
@@ -39,7 +40,9 @@ function App() {
      {/* <UseReducerBasic /> */}
 
 {/* <PracticeProgramsClass /> */}
-     <PracticeHooks />
+     {/* <PracticeHooks />
+     <UseReducerBasic /> */}
+     <UseReducersComplex />
  </div>
   );
 }
