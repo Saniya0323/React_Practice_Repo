@@ -14,7 +14,6 @@ import './App.css';
 // export const UserCity = React.createContext()
 // export const UserCountry = React.createContext()
 import UseReducerBasic from './componentshooks/UseReducerBasic';
-import PracticeHooks from './componentshooks/PracticeHooks';
 import UseReducersComplex from './componentshooks/UseReducersComplex';
 
 function App() {
