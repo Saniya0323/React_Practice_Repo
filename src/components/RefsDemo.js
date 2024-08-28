@@ -12,7 +12,7 @@ class RefsDemo extends Component {
         // }
 
     }
-    componentDidMount() {
+    inputmethod() {
         this.inputRef.current.focus()
         console.log(this.inputRef)
 
