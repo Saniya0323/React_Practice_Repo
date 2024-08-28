@@ -1,15 +1,10 @@
 import './App.css';
-import ClickCounter from './components/ClickCounter';
-// import HttpsGet from './components/HttpsGet';
-
-
+import Demo from './https-codes/Demo';
 
 function App() {
   return (
     <div className="App">
-      {/* <HttpsGet /> */}
-
-      <ClickCounter name='saniyyyaaa' />
+      <Demo></Demo>
     </div>
   );
 }
